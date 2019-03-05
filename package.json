@@ -1,0 +1,18 @@
+{
+  "name": "testing_jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "testing",
+    "jest"
+  ],
+  "author": "Shubhankar",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
